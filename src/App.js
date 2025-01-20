@@ -43,7 +43,6 @@ function App() {
               <FormText name="amount" id="amount" disabled=""/>
             </div>
           </div>
-
           <div className="control-row"><br/><hr/><br/></div>
           <div className="control-row">
             <FormAPI />
